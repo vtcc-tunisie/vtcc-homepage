@@ -1,0 +1,1 @@
+export default function Page() { return <h1>VTCC Homepage</h1> }
